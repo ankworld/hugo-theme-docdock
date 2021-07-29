@@ -36,3 +36,29 @@
     font-weight: 500;
     src: local('Roboto Mono Medium'), local('RobotoMono-Medium'), url('../fonts/RobotoMono-Medium.ttf') format('truetype')
 }
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 400;
+    src: url('../fonts/Sarabun-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 500;
+    src: url('../fonts/Sarabun-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 400;
+    font-style: italic;
+    src: url('../fonts/Sarabun-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarabun';
+    font-weight: 500;
+    font-style: italic;
+    src: url('../fonts/Sarabun-BoldItalic.ttf') format('truetype');
+}
